@@ -1,3 +1,13 @@
+# Weather Display
+
+React web application created for learning:
+- Typescript in React
+- Error handling on fetch
+- Fetching and managing data from remote servers
+- React context
+
+The project is supposed to display weather data based on the given location.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
